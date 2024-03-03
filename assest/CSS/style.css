@@ -675,6 +675,13 @@ color: black;
    margin-left: 25px;
    
   }
+  #about .about-descr {
+    font-family: "Playfair Display", serif;
+    font-size: 28px;
+    text-align: left;
+    color: black;
+    padding-left: 30px;
+}
 }
 @media(min-width:576px) and  (max-width:768px){
   
